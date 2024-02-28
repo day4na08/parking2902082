@@ -6,6 +6,7 @@ public enum TipoVehiculo {
     CARRO,
     CAMIONETA,
     BUS,
-    TAXI
+    TAXI,
+    
 
 }
