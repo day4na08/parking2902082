@@ -15,8 +15,10 @@ public class Cupo {
         this.letra = letra;
         this.largo = largo;
         this.ancho = ancho;
+        
     }
 
     
     
 }
+
